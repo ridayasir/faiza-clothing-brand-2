@@ -1,0 +1,8 @@
+{
+  "name": "Faiza Clothings - Home Atelier Lahore",
+  "description": "Haute Couture bespoke Pakistani bridalwear, festive formals, and heritage craftsmanship from the imperial ateliers of Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
